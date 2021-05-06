@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_StreamingContent_Console
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_StreamingContent_Repository", "07_StreamingContent_Repository\07_StreamingContent_Repository.csproj", "{4DD04B38-DEFE-4123-82A6-7ABAB036C205}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Interfaces", "08_Interfaces\08_Interfaces.csproj", "{5BF9CE2A-887D-4360-A208-280E44F09883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{4DD04B38-DEFE-4123-82A6-7ABAB036C205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DD04B38-DEFE-4123-82A6-7ABAB036C205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DD04B38-DEFE-4123-82A6-7ABAB036C205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF9CE2A-887D-4360-A208-280E44F09883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF9CE2A-887D-4360-A208-280E44F09883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF9CE2A-887D-4360-A208-280E44F09883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF9CE2A-887D-4360-A208-280E44F09883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

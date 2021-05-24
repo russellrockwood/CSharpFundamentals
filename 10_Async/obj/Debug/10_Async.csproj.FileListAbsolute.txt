@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\10_Async\bin\Debug\10_Async.exe.config
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\10_Async\bin\Debug\10_Async.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\10_Async\bin\Debug\10_Async.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\10_Async\obj\Debug\10_Async.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\10_Async\obj\Debug\10_Async.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\10_Async\obj\Debug\10_Async.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\10_Async\obj\Debug\10_Async.pdb

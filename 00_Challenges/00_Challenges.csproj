@@ -49,6 +49,9 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BirdMan\BirdUI.cs" />
+    <Compile Include="BirdMan\BirdRepository.cs" />
+    <Compile Include="BirdMan\BirdTests.cs" />
     <Compile Include="Calculater.cs" />
     <Compile Include="ConditionsLoop.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -60,6 +63,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="BirdMan\game-sequence.txt" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

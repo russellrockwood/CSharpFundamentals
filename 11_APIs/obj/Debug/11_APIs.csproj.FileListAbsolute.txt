@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\bin\Debug\11_APIs.exe.config
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\bin\Debug\11_APIs.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\bin\Debug\11_APIs.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\obj\Debug\11_APIs.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\obj\Debug\11_APIs.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\obj\Debug\11_APIs.exe
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\obj\Debug\11_APIs.pdb
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\11_APIs\obj\Debug\11_APIs.csproj.CopyComplete
